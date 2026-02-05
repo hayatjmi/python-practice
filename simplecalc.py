@@ -1,0 +1,7 @@
+num1 = input("Enter first number")
+num2 = input("Enter second number")
+print("addition =", int(num1)+int(num2))
+print("subtraction =", int(num1)-int(num2))
+print("multipication =", int(num1)*int(num2))
+print("division =", int(num1)/int(num2))
+print("modulation =", int(num1)%int(num2))
