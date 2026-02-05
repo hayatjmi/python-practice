@@ -32,7 +32,7 @@ if int(age)>18:
  print("Permission Granted!")
 
 else:
- print("Permission Denied !") 
+ print("Permission Denied !")  
 
 
 # Question 6
