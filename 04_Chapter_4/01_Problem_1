@@ -1,0 +1,4 @@
+fruits_List = ["Mango","Banana","PineApple","Orange","Pulm","Gauvava","Apple"]
+print(fruits_List)
+print(len(fruits_List))
+print(type(fruits_List))
